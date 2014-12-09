@@ -23,7 +23,7 @@
 			<executions>
 				<execution>
 					<goals>
-						<goal>wsdl2code</goal>
+						<goal>wsdl2code ( dit heb ik aangepast)</goal>
 					</goals>
 					<configuration>
 						<unpackClasses>true</unpackClasses>
